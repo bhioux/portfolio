@@ -153,3 +153,11 @@ Project: Corporate wordress website
   <li>Description: Deployed an Organisation Portal using (WordPress).
   </li>
 </ul>
+
+<h4>Other Links</h4>
+<ul>
+  <li>LinkedIn: https://www.linkedin.com/in/abiodun-akinbodewa</li>
+  <li>stackoverflow: https://stackoverflow.com/users/11785135/emman-abiodun</li>
+  <li>Blog: https://academy.coding.sch.ng/</li>
+  <li>eLearning Platform: https://www.coding.sch.ng</li>
+</ul>
