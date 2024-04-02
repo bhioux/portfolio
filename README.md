@@ -24,84 +24,132 @@ learning and professional development.
 </ul>
 
 <h4>Technical Proficiencies:</h4>
-- Programming: PHP (Symfony, Laravel, CodeIgniter), JavaScript (jQuery, Ajax, Angular, React, 
-Ionic)
-- Frontend: HTML, HTML5, CSS, Bootstrap
-- Databases: MySQL, PostgreSQL
-- Frameworks: Symfony, Angular, React, Ionic
-- Cloud services: AWS
-- DevOps: Git, CI/CD, GitHub Actions, Docker
-- Server: Apache, Linux
-- Learning Management Systems: Moodle, Blackboard, Canvas, eFront, Chamilo
-- Content Management Systems: WordPress, Drupal
-- Other: Restful APIs, PERL, Dancer, Mason, PHPUnit
+<ul>
+  <li>
+    Programming: PHP (Symfony, Laravel, CodeIgniter), JavaScript (jQuery, Ajax, Angular, React, 
+    Ionic)
+  </li>
+  <li>Frontend: HTML, HTML5, CSS, Bootstrap</li>
+  <li>Databases: MySQL, PostgreSQL</li>
+  <li>Frameworks: Symfony, Angular, React, Ionic</li>
+  <li>Cloud services: AWS</li>
+  <li>DevOps: Git, CI/CD, GitHub Actions, Docker</li>
+  <li>Server: Apache, Linux</li>
+  <li>Learning Management Systems: Moodle, Blackboard, Canvas, eFront, Chamilo</li>
+  <li>Content Management Systems: WordPress, Drupal</li>
+  <li>Other: Restful APIs, PERL, Dancer, Mason, PHPUnit</li>
+</ul>
 
 <h4>Work Experience:</h4>
 <h5>Software Developer</h5> 
 <h5>SD Collaborations Group, New Jersey</h5> 
 <h6>May 2022 – Present</h6>
-- Led a team of 5 developers in the development of backend projects for SPA applications, 
-utilizing PHP (Laravel, CodeIgniter), MySQL, and AWS, resulting in a 20% increase in system 
-efficiency.
-- Spearheaded the implementation of Agile and DevOps practices, utilizing Git, CI/CD, and 
-Docker, reducing deployment time by 70%.
-- Collaborated closely with cross-functional teams, customers, and users to deliver 5 
-successful projects on time and within budget.
+<ul>
+  <li>
+    Led a team of 5 developers in the development of backend projects for SPA applications, 
+    utilizing PHP (Laravel, CodeIgniter), MySQL, and AWS, resulting in a 20% increase in system 
+    efficiency.
+  </li>
+  <li>
+    Spearheaded the implementation of Agile and DevOps practices, utilizing Git, CI/CD, and 
+    Docker, reducing deployment time by 70%.
+  </li>
+  <li>
+    Collaborated closely with cross-functional teams, customers, and users to deliver 5 
+successful projects on time and within budget
+    </li>
+</ul>
+
 <h5>Software Engineer </h5>
 <h5>Federal University of Technology, Akure</h5> 
 <h6>October 2007 – May 2023</h6>
-- Managed the deployment and customization of Learning Management Systems (Moodle, 
-Blackboard, Canvas, eFront, Chamilo) for over 24,000 undergraduate students across 50 
-departments, achieving a 20% improvement in user satisfaction.
-- Led the development of an electronic Annual Performance Evaluation System for university 
-staff, utilizing PHP (CodeIgniter), MySQL, and jQuery, resulting in a 60% increase in evaluation 
-accuracy.
-- Oversaw the migration to Microsoft Office 365 for education, ensuring seamless transition 
-with minimal 
+<ul>
+  <li>
+    Managed the deployment and customization of Learning Management Systems (Moodle, 
+    Blackboard, Canvas, eFront, Chamilo) for over 24,000 undergraduate students across 50 
+    departments, achieving a 20% improvement in user satisfaction.
+  </li>
+  <li>
+    Led the development of an electronic Annual Performance Evaluation System for university 
+    staff, utilizing PHP (CodeIgniter), MySQL, and jQuery, resulting in a 60% increase in evaluation 
+    accuracy
+  </li>
+  <li>
+    Oversaw the migration to Microsoft Office 365 for education, ensuring seamless transition 
+    with minimal
+  </li>
+</ul>
 
 <h4>Education:</h4>
 <h5>Bachelor of Science in Computer Science</h5> 
 
 <h4>Certifications:</h4>
-- Associate Web Professional (WAW)
-- Microsoft Certified Professional
-- Microsoft Technology Associate
-- United Nations Ethics course
-- United Nations Anti-harassment Policy Course 
-- United Nations Advanced Security in the Field (English)
-- UNESCO Field Security Awareness Training
-- United Nations Basic Security in the Field II
+<ul>
+  <li>Associate Web Professional (WAW)</li>
+  <li>Microsoft Certified Professional</li>
+  <li>Microsoft Technology Associate</li>
+  <li>United Nations Ethics course</li>
+  <li>United Nations Anti-harassment Policy Course</li>
+  <li>United Nations Advanced Security in the Field (English)</li>
+  <li>UNESCO Field Security Awareness Training</li>
+  <li>United Nations Basic Security in the Field II</li>
+</ul>
 
 <h4>Languages:</h4>
 English: C1 
 
 <h4>Portfolio:</h4>
 Project: University website & Content Management System: (https://www.futa.edu.ng)
-- Role: Backend Developer
-- Description: Developed robust Content Management System and fully functional University 
-website using (Codeigniter3) Framework
+<ul>
+  <li>Role: Backend Developer</li>
+  <li>Description: Developed robust Content Management System and fully functional University 
+website using (Codeigniter3) Framework</li>
+</ul>
+
 Project: Hotel Reservation System: (https://reservations.lacampagnetropicana.com)
-- Role: Backend Developer
-- Description: Developed a hotel reservation system using PHP/MySQL.
+<ul>
+  <li>Role: Backend Developer</li>
+  <li>Description: Developed a hotel reservation system using PHP/MySQL.</li>
+</ul>
+
 Project: Postgraduate Student Transcript: (https://pgtranscript.futa.edu.ng)
-- Role: backend Developer
-- Description: Designed and implemented the backend for the postgraduate student transcript 
-application using (Codeigniter4) framework.
+<ul>
+  <li>Role: backend Developer</li>
+  <li>Description: Designed and implemented the backend for the postgraduate student transcript 
+      application using (Codeigniter4) framework.</li>
+</ul>
+ 
 Project: Procurement SaaS Aplication: (https://github.com/bhioux/eprocure-laravel.git)
-- Role: Fullstack Developer
-- Description: Designed and implemented the Enterprise Procurement SaaS application using 
-(Laravel) framework.
-Project: Staff Annual Performance Evaluation System: (https://aperform.futa.edu.ng)
-- Role: backend Developer
-- Description: Designed and implemented the backend for the staff annual performance 
-evaluation system using (Codeigniter3) framework.
+<ul>
+  <li>Role: Fullstack Developer</li>
+  <li>Description: Designed and implemented the Enterprise Procurement SaaS application using 
+      (Laravel) framework.</li>
+</ul>
+
+Project: Staff Annual Performance Evaluation System: (https://aperform.futa.edu.ng
+<ul>
+  <li>Role: backend Developer</li>
+  <li>Description: Designed and implemented the backend for the staff annual performance 
+      evaluation system using (Codeigniter3) framework.</li>
+</ul>
+
 Project: Student Portal: (https://predegree.oaustech.edu.ng/)
-- Role: backend Developer
-- Description: Designed and implemented the backend for Student Portal handling - Account 
-creation, Application, Admissions, e-Payments and Registration – (CodeIgniter4)
+<ul>
+  <li>Role: backend Developer</li>
+  <li>Description: Designed and implemented the backend for Student Portal handling - Account 
+      creation, Application, Admissions, e-Payments and Registration – (CodeIgniter4)</li>
+</ul>
+
 Project: eLearning Portal (https://www.coding.sch.ng/)
-- Role: backend Developer
-- Description: Deployed an eLearning LMS using Moodle students to learn coding – (Moodle)
-Project: Wordpress Portal (https://bpp.on.gov.ng/)
-- Role: Fullstack Developer
-- Description: Deployed an Organisation Portal using (WordPress).
+<ul>
+  <li>Role: backend Developer</li>
+  <li>Description: Deployed an eLearning LMS using Moodle students to learn coding – (Moodle)
+      Project: Wordpress Portal (https://bpp.on.gov.ng/)</li>
+</ul>
+
+Project: Corporate wordress website
+<ul>
+  <li>Role: Fullstack Developer</li>
+  <li>Description: Deployed an Organisation Portal using (WordPress).
+  </li>
+</ul>
