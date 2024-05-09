@@ -1,6 +1,5 @@
 <h4>Akinbodewa Abiodun Emman</h4>
 <h4>PHP Developer, Software Engineering Team Leader</h4>
-<h4>Telephone: +18564605071</h4>
 <h4>Email Address:abiodun.akinbodewa@gmail.com | bhioux@gmail.com</h4>
 <h4>Professional Summary:</h4>
 <hr>
